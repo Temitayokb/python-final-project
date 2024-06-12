@@ -1,4 +1,4 @@
-This is an easy project that can help python beginners know how to a simple problem like the one below;
+This is an easy project that can help python beginners know how to solve a simple problem like the one below;
 1. Given an integer,n , perform the following conditional actions:
 
 ● If n is odd, print Weird
